@@ -2,4 +2,6 @@
 Simple light (shadow) imitating raycaster
 
 Live DEMO:
-https://heuristic-booth-23063a.netlify.app/
+https://lightcaster.netlify.app/
+
+![image](https://user-images.githubusercontent.com/13939292/170953208-828cee49-3a11-48e1-bf85-937ca35e4e82.png)
